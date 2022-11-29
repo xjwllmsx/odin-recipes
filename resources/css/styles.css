@@ -1,0 +1,9 @@
+* {
+    color: hsl(100, 100%, 100%);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: hsl(180, 25%, 25%);
+    color: hsl(100, 100%, 100%);
+}
